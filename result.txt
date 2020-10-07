@@ -1,0 +1,17 @@
+Augusta:
+folder 782
+notebook 7
+paper 45
+ 
+Kira:
+folder 79
+ink 5
+pencil 67
+stapler 24
+ 
+Liza:
+alidad 378
+folder 34
+organizer 78
+paper 53
+ruler 67

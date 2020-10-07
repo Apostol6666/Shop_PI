@@ -1,0 +1,12 @@
+Liza ruler 67
+Liza alidad 378
+Liza paper 53
+Kira pencil 67
+Kira stapler 24
+Liza organizer 78
+Kira ink 5
+Augusta notebook 7
+Augusta paper 45
+Kira folder 79
+Augusta folder 782
+Liza folder 34
